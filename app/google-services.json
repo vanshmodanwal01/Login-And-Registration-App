@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087252450723",
+    "project_id": "my-login-and-registratio-522e6",
+    "storage_bucket": "my-login-and-registratio-522e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087252450723:android:011684b6d130c3595b5e16",
+        "android_client_info": {
+          "package_name": "com.example.regestrationandlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv8IkJxxZnEkY-AjLJ2vMQJ2A4n57FjA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
