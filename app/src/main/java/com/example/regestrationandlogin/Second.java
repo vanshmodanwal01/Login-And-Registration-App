@@ -73,6 +73,9 @@ public class Second extends AppCompatActivity {
                                     p2.setVisibility(View.INVISIBLE);
                                     Toast.makeText(Second.this, "Registration Successful", Toast.LENGTH_SHORT).show();
                                     mp.start();
+                                    Intent i = new Intent(Second.this,MainActivity.class);
+                                    startActivity(i);
+                                    finish();
 
                                 }
                                 else
