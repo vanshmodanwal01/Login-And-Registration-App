@@ -242,35 +242,6 @@ app/
 
 ---
 
-# 📸 Screenshots
-
-> Add screenshots after uploading them to your repository.
-
-```
-screenshots/
-
-login.png
-
-register.png
-
-home.png
-```
-
-Example:
-
-```markdown
-## Login Screen
-
-![Login](screenshots/login.png)
-
-## Register Screen
-
-![Register](screenshots/register.png)
-
-## Home Screen
-
-![Home](screenshots/home.png)
-```
 
 ---
 
@@ -340,11 +311,6 @@ If you found this project helpful:
 
 ---
 
-# 📄 License
-
-This project is licensed under the **MIT License**.
-
----
 
 <div align="center">
 
